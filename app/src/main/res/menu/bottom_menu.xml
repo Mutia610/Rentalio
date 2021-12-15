@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment2" android:title="HOME" android:icon="@drawable/ic_home" android:iconTint="@color/white" android:iconTintMode="multiply" />
+    <item android:id="@+id/historyFragment" android:title="HISTORY" android:icon="@drawable/ic_history"/>
+    <item android:id="@+id/helpFragment" android:title="HELP" android:icon="@drawable/ic_help"/>
+    <item android:id="@+id/accountFragment" android:title="ACCOUNT" android:icon="@drawable/ic_account"/>
+</menu>
